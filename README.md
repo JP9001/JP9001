@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JP9001
 - 👀 I’m interested in learning how to write code
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on Everything
 
 <!---
