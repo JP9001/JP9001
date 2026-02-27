@@ -1,9 +1,1 @@
-- 👋 Hi, I’m @JP9001
-- 👀 I’m interested in learning how to write code
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on Everything
-
-<!---
-JP9001/JP9001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+It Support Specialist with hands-on experience troubleshooting hardware, software, network, and identity/access issues. Known for clear user communication, precise ticket documentation, and root-cause analysis. Actively pursuing industry-recognized certifications and building practical labs to advance into higher-tier technical roles.
