@@ -1,1 +1,3 @@
 IT Helpdesk with hands-on experience troubleshooting hardware, software, network, and identity/access issues. Known for clear user communication, precise ticket documentation, and root-cause analysis. Actively pursuing industry-recognized certifications and building practical labs to advance into higher-tier technical roles.
+Helpdesk projects
+https://github.com/JP9001/Provisioning-a-virtual-machine-for-active-directory-in-aws
