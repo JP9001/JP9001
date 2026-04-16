@@ -5,7 +5,7 @@ IT Helpdesk with hands-on experience troubleshooting hardware, software, network
 
 
 
-<h2>👨‍💻 Helpdesk Projects:</h2>
+<h2> Helpdesk Projects:</h2>
 
 https://github.com/JP9001/Provisioning-a-virtual-machine-for-active-directory-in-aws
 
