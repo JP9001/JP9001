@@ -19,3 +19,29 @@ https://github.com/JP9001/Password-Reset-in-Active-Directory-
 https://github.com/JP9001/Hosting-a-static-website-in-Azure
 
 https://github.com/JP9001/Building-a-two-tier-Secure-Web-
+
+
+<h2>🛠️ Core Skills </h2>
+       
+    • Servicenow
+     
+    • Active Directory
+
+    • Window os 
+    
+    • Office 365 administration
+
+    • Technical Support
+
+    • Amazon EC2 (Elastic Compute Cloud)
+
+    • Key Pair-SSH access
+
+    • Amazon VPC (Virtual Private Cloud)
+
+    • AMI (Amazon Machine Image)
+
+    • Cloud Watch-Monitoring Logs
+
+    • Security Groups
+
