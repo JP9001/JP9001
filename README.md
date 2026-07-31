@@ -56,7 +56,7 @@ Built a two-tier web architecture on AWS with segmented public/private layers fo
 
 ## 🔐 Systems & Security Labs
 
-### 🔗 Active Directory Lab Set
+### 🔗 https://github.com/JP9001/ad-labset-001
 Hands-on AD DS lab work covering domain structure, identity, and access control fundamentals — organisational units, security groups, user provisioning, and Group Policy basics.
 
 ### 🔗 Wireshark Network Analysis
