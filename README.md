@@ -59,7 +59,7 @@ Built a two-tier web architecture on AWS with segmented public/private layers fo
 ### 🔗 https://github.com/JP9001/ad-labset-001
 Hands-on AD DS lab work covering domain structure, identity, and access control fundamentals — organisational units, security groups, user provisioning, and Group Policy basics.
 
-### 🔗 Wireshark Network Analysis
+### 🔗 https://github.com/JP9001/Wireshark-Network-Analysis
 Captured and analysed live network traffic to build foundational packet-analysis skills — DNS resolution, the TCP three-way handshake, HTTP vs. HTTPS, and full TCP stream reconstruction.
 
 **Key areas practiced:**
