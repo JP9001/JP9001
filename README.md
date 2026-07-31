@@ -1,4 +1,4 @@
-# Hi — I'm Jaylen | IT Helpdesk & Systems Administration
+# Hi — I'm Jaylen |IT Helpdesk & Systems Administration
 
 IT Helpdesk professional with hands-on experience troubleshooting hardware, software, network, and identity/access issues. Known for clear user communication, precise ticket documentation, and root-cause analysis.
 
