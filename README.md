@@ -1,6 +1,6 @@
-# Hi — I'm Jaylen |IT Helpdesk & Systems Administration
+# Hi — I'm Jaylen 
 
-IT Helpdesk professional with hands-on experience troubleshooting hardware, software, network, and identity/access issues. Known for clear user communication, precise ticket documentation, and root-cause analysis.
+ hands-on experience troubleshooting hardware, software, network, and identity/access issues. Known for clear user communication, precise ticket documentation, and root-cause analysis.
 
 Actively pursuing industry-recognized certifications and building practical labs — spanning Active Directory, ServiceNow, and cloud infrastructure on AWS and Azure — to advance into higher-tier technical roles.
 
